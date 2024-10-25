@@ -1,4 +1,3 @@
-Voici une version du README pour GitHub, formatée en Markdown pour présenter les endpoints de votre projet et expliquer son utilisation avec Postman.
 
 ---
 
