@@ -22,7 +22,7 @@ Une API REST développée en Node.js avec Express et MongoDB pour gérer des tâ
 
 4. **Démarrez le serveur :**
    ```bash
-   node app.js
+   node main.js
    ```
    Le serveur sera accessible à l’adresse `http://localhost:3000`.
 
